@@ -3,7 +3,7 @@
 Integer Programming-based Marketing Budget Allocation  
 RM 294 – Optimization I | MSBA, University of Texas | Fall 2025
 
-**Team:** Mikyung Oh · Carter St.Geme · Riju Hariharan · Vyshnavi Maringanti
+**Team:** Aubrey Oh · Carter St.Geme · Riju Hariharan · Vyshnavi Maringanti
 
 ---
 
